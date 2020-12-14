@@ -31,7 +31,7 @@
 <hr />
 <p>
   Hi! I'm a young passionate about web development, with knowledge in
-  requirements analysis, programming languages C, Java and layout in
+  requirements analysis, programming languages C, Javascript and layout in
   HTML and CSS.
 </p>
 <div align="center">
