@@ -38,7 +38,7 @@
   <img
     width="100%"
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=gdsoto&show_icons=true&theme=gotham"
+    src="https://github-readme-stats.vercel.app/api?username=Gdsoto&show_icons=true&theme=gotham"
   />
   <img
     align="center"
