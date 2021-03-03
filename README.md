@@ -42,7 +42,7 @@
   />
   <img
     align="center"
-    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Gdsoto&layout=compact&theme=gotham"
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gdsoto&layout=compact&theme=gotham"
   />
 </div>
 
