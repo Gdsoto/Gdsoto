@@ -1,4 +1,4 @@
-### Hi there, i'm Gerson 👋
+### Hola!, Soy Gerson David 👋
 
 <img
   src="https://raw.githubusercontent.com/Gdsoto/Gdsoto/main/Banner.png"
@@ -30,9 +30,11 @@
 </p>
 <hr />
 <p>
-  Hi! I'm a young passionate about web development, with knowledge in
-  requirements analysis, programming languages C, Javascript and layout in
-  HTML and CSS.
+  🖐 Hola, soy Gerson David, recién graduado como Tecnólogo en Análisis y Desarrollo de Sistemas de Información.
+
+Durante esta etapa, junto con mi equipo de trabajo, hemos desarrollado el sistema de información web (SOMA), del cual estoy muy contento de haber formado parte.
+
+Me apasionan los retos como desarrollador y el aprendizaje constante de nuevas tecnologías.
 </p>
 <div align="center">
   <img
