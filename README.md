@@ -30,11 +30,10 @@
 </p>
 <hr />
 <p>
-  🖐 Hola, soy Gerson David, recién graduado como Tecnólogo en Análisis y Desarrollo de Sistemas de Información.
-
+ Recién graduado como Tecnólogo en Análisis y Desarrollo de Sistemas de Información.
 Durante esta etapa, junto con mi equipo de trabajo, hemos desarrollado el sistema de información web (SOMA), del cual estoy muy contento de haber formado parte.
-
 Me apasionan los retos como desarrollador y el aprendizaje constante de nuevas tecnologías.
+  
 </p>
 <div align="center">
   <img
