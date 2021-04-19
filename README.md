@@ -45,7 +45,7 @@ Me apasionan los retos como desarrollador y el aprendizaje constante de nuevas t
   />
   <img
     align="center"
-    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Gdsotou&layout=compact&theme=gotham"
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Gdsoto&layout=compact&theme=gotham"
   />
 </div>
 
