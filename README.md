@@ -24,7 +24,7 @@
     <img
       width="40px"
       height="40px"
-      src="https://raw.githubusercontent.com/Gdsoto/Gdsoto/00af3fad33b06c8d8c99cd896776c7e913043da6/assets/linkedin.svg"
+      src="https://raw.githubusercontent.com/Gdsoto/Gdsotou/00af3fad33b06c8d8c99cd896776c7e913043da6/assets/linkedin.svg"
     />
   </a>
 </p>
