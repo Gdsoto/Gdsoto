@@ -30,10 +30,6 @@
 </p>
 <hr />
 <p>
- 👓 Recién graduado como Tecnólogo en Análisis y Desarrollo de Sistemas de Información.<br>
- 
-Durante esta etapa, junto con mi equipo de trabajo, hemos desarrollado el sistema de información web (SOMA), del cual estoy muy contento de haber formado parte.<br>
-
 Me apasionan los retos como desarrollador y el aprendizaje constante de nuevas tecnologías.<br>
   
 </p>
