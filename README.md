@@ -37,7 +37,7 @@ Me apasionan los retos como desarrollador y el aprendizaje constante de nuevas t
   <img
     width="100%"
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=Gdsoto&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
+    src="https://github-readme-stats.vercel.app/api?username=Gdsoto&show_icons=true&title_color=29a485&icon_color=3572a5&text_color=9f9f9f&bg_color=0d1117"
   />
   <img
     align="center"
