@@ -20,7 +20,7 @@
     />
   </a>
   <img src="https://i.imgur.com/FIER2ut.png" />
-  <a href="#">
+  <a href="https://www.linkedin.com/in/gdsoto">
     <img
       width="40px"
       height="40px"
