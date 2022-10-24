@@ -12,7 +12,7 @@
     />
   </a>
   <img src="https://i.imgur.com/FIER2ut.png" />
-  <a href="https://www.instagram.com/gdsoto5622">
+  <a href="#">
     <img
       width="40px"
       height="40px"
